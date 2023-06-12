@@ -1,8 +1,6 @@
-# Pranjal_DSA_LabAlgo2
+Java project-2 to implement conecpt of DSA
 
-LAB 2: Algorithms
-
-This folder consist of two projects and there following problem statement are:
+This repository consist of two projects and there following problem statement are:
 
 1. PayMoney:
    PayMoney. processes thousands of transactions daily amounting to crores of Rupees. They also have a daily target that they must achieve. Given a list of transactions done by PayMoney and a daily target, your task is to determine at which transaction PayMoney achieves the same. If the target is not achievable, then display the target is not achieved.
